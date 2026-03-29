@@ -71,5 +71,5 @@ export default defineConfig({
   },
 
   // Max duration of a task in seconds
-  maxDuration: 600,
+  maxDuration: 300,
 });
